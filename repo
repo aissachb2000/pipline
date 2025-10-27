@@ -1,0 +1,8 @@
+spark-databricks-ci-cd/
+│
+├─ notebooks/
+│   └─ ventes_notebook.py
+├─ tests/
+│   └─ test_ventes.py
+├─ requirements.txt
+└─ .github/workflows/ci-cd.yml
